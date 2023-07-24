@@ -1,0 +1,7 @@
+name: KBFFA
+version: '${project.version}'
+main: me.lestandrea.kbffa.Main
+api-version: '1.13'
+authors: [LestAndrea]
+description: A simple KBFFA plugin
+website: https://horagon.net
